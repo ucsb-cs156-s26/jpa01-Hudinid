@@ -1,6 +1,6 @@
 # jpa01-Hudinid
 
-Deployed at: https://hudinid.dokku-11.cs.ucsb.edu/
+Deployed at: http://hudinid.dokku-11.cs.ucsb.edu/
 
 
 # About this repo
