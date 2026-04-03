@@ -1,4 +1,4 @@
-# STARTER-jpa01
+# jpa01-Hudinid
 
 Deployed at: http://hudinid.dokku-11.cs.ucsb.edu/
 
